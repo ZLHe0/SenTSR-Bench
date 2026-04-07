@@ -14,7 +14,7 @@
   <a href="https://arxiv.org/abs/2602.19455"><img src="https://img.shields.io/badge/Paper-arXiv%3A2602.19455-red" alt="Paper"></a>
   <a href="https://huggingface.co/datasets/ZLHe0/SenTSR-Bench"><img src="https://img.shields.io/badge/Dataset-HuggingFace-yellow" alt="Dataset"></a>
   <a href="https://zlhe0.github.io/SenTSR-Bench-Website/"><img src="https://img.shields.io/badge/Website-SenTSR--Bench-blue" alt="Website"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License: Apache 2.0"></a>
   <a href="https://aistats.org/aistats2026/"><img src="https://img.shields.io/badge/Venue-AISTATS%202026-purple" alt="Venue"></a>
 </p>
 
@@ -281,4 +281,4 @@ This project is inspired by and builds upon several excellent open-source projec
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
